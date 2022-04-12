@@ -13,4 +13,4 @@
 
 [경일대학교](http://www.kiu.ac.kr)
 
-[나의 사진](./new-git/이미지/사진.jpg)
+![나의 사진](./new-git/이미지/사진.jpg)
